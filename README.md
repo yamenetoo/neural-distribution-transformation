@@ -1,5 +1,7 @@
 # Neural Distribution Transformation
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamenetoo/neural-distribution-transformation/blob/main/notebooks/colab_ndt_demo.ipynb)
+
 Python package and experiment suite for
 
 > **Neural Distribution Transformation: Monotone Neural Approximation of Quantile
