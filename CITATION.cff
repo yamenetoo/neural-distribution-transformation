@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Neural Distribution Transformation: Monotone Neural Approximation of Quantile Couplings with Uniform Error Bounds and Distribution-Free Confidence Bands"
+authors:
+  - family-names: "AL Mohamad"
+    given-names: "Mohamad Yamen"
+  - family-names: "Heydari"
+    given-names: "Ali Akbar"
+  - family-names: "Jabbari Khamnei"
+    given-names: "Hossein"
+year: 2026
+version: "0.2.0"
+license: MIT
+type: software
+keywords:
+  - quantile coupling
+  - optimal transport
+  - monotone neural network
+  - quantile mapping
+  - confidence bands
